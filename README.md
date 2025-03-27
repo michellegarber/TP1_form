@@ -1,1 +1,4 @@
-"# TP1_form" 
+interfaz: usamos boostrap para el formato del form. los colores los elegimos de una paleta de colores de la pagina colorhunt. el fondo tiene 2 colores y esta difuminado, lo hicimos con el linear-gradient.
+validaciones: hicimos que no pueda enviar el form si hay alguna informacion incorrecta, esto con el if para comprobar si las contraseñas eran iguales y que cumplieran con lo requerido. La validacion de la contraseña lo hicimos con un codigo que encontramos investigando para que tenga minimo 8 caracteres, una letra y un numero.
+desafios: no nos acordabamos mucho de javascript y tuvimos que veriguar bastante. la consigna de las contraseñas nos costo.
+mejoraS; agregariamos una mejor interfaz y un formulario mas completo con base de datos

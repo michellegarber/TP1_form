@@ -104,3 +104,8 @@ input.error {
         font-size: 0.9rem;
     }
 }
+.errormsj{
+    color: red; 
+    display: none;
+
+}

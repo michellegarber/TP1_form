@@ -13,4 +13,7 @@ function confirmarContraseña() {
         submitBtn.disabled = true; 
     }
 }
+function confirmarFormulario() {
+    alert('Formulario enviado!');
+}
 
